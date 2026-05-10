@@ -1,2 +1,2 @@
-# C-learning
+# C++ learning
 My C++ learning journey
