@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-#include <vector>
 #include <cmath>
 
 using namespace std;
@@ -9,9 +8,10 @@ int main () {
 
     system("cls");
 
-    int x = 10;
+    int a, b;
+    cin >> a >> b;
 
-    cout << "x = " << x;
+    cout << a + b;
 
     return 0;
 }
