@@ -8,10 +8,10 @@ int main () {
 
     system("cls");
 
-    int a, b;
-    cin >> a >> b;
+    int x, y;
+    cin >> x >> y;
 
-    cout << a + b;
+    cout << x * y;
 
     return 0;
 }
